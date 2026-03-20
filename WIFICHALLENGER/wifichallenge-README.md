@@ -1,9 +1,5 @@
 # 📡 WiFiChallenge Lab — Ataques sobre redes inalámbricas
 
-> **Asignatura:** Seguridad en las Comunicaciones  
-> **Máster en Ciberseguridad**
-
----
 
 ## 📋 Índice
 
